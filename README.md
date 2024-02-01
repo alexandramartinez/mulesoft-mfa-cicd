@@ -4,7 +4,7 @@ Repository used to demonstrate how to create a simple CI/CD pipeline using a con
 
 **Note:** The initial versions of the pipeline are based on the following repository created by Archana Patel: [arch-jn/github-actions-mule-cicd-demo](https://github.com/arch-jn/github-actions-mule-cicd-demo).
 
-Tutorial link: TBD
+Tutorial link: [Enabling MFA in MuleSoft for CI/CD Pipelines Using GitHub Actions](https://developer.salesforce.com/blogs/2023/08/enabling-mfa-in-mulesoft-for-ci-cd-pipelines-using-github-actions)
 
 Similar resources:
 - [GitHub repo] [alexandramartinez/github-actions](https://github.com/alexandramartinez/github-actions)
