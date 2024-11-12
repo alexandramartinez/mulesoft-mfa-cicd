@@ -14,6 +14,14 @@ Similar resources:
 - [Blog post + video] [Part 4: CI/CD pipeline with MuleSoft and GitHub Actions - MUnit minimum coverage percentage](https://www.prostdev.com/post/part-4-ci-cd-pipeline-with-mulesoft-and-github-actions-munit-minimum-coverage-percentage)
 - [Blog post + video] [Part 5: CI/CD pipeline with MuleSoft and GitHub Actions - Enabling MFA through a Connected App](https://www.prostdev.com/post/part-5-ci-cd-pipeline-with-mulesoft-and-github-actions-enabling-mfa-through-a-connected-app)
 
+## Similar repos
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=github-actions&theme=catppuccin_latte)](https://github.com/alexandramartinez/github-actions)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=squirrel-app&theme=catppuccin_latte)](https://github.com/alexandramartinez/squirrel-app)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=api-catalog-cli-example&theme=catppuccin_latte)](https://github.com/alexandramartinez/api-catalog-cli-example)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mule-bat-example&theme=catppuccin_latte)](https://github.com/alexandramartinez/mule-bat-example)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=dataweave-utilities-library&theme=catppuccin_latte)](https://github.com/alexandramartinez/dataweave-utilities-library)
+
 ## Flow
 
 This is a simple flow that returns a `"Hello World!"` message. You can call this HTTP listener using port `8081` and path `/hello`.
